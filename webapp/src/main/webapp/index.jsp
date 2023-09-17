@@ -4,7 +4,7 @@
 %>
 <form action="action_page.php">
   <div class="container">
-    <h1> Welcome to Learning CI CD </h1>
+    <h1> Hello !! Welcome to Learning CI CD </h1>
     <p>The current date and time is: <%= date %></p>
     <h2>New user Register for DevOps Learning</h2>
     <p>Please fill in this form to create an account.</p>
