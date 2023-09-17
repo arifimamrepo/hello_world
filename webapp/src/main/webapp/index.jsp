@@ -5,7 +5,7 @@
 <form action="action_page.php">
   <div class="container">
     <p>The current date and time is: <%= date %></p>
-    <h1>CICD New user Register for DevOps Learning</h1>
+    <h1>Test CICD New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
