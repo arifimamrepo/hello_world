@@ -4,7 +4,7 @@
 %>
 <form action="action_page.php">
   <div class="container">
-    <p>Test with ansible . The current date and time is: <%= date %></p>
+    <p>WIth change . The current date and time is: <%= date %></p>
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
